@@ -1,0 +1,5 @@
+Información Personal:
+nombre: Sofía Pico
+ciudad: Napo
+profesion: Estudiante
+telefono: 0999492948
